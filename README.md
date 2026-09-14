@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Efe 👋
 
-<!--
-**beharefe/beharefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full-Stack Engineer based in Poland.
 
-Here are some ideas to get you started:
+I build complete product systems across frontend, backend, integrations, infrastructure, AI tooling, payments and blockchain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working in Growth Engineering at Text / LiveChat.
+
+Previously:
+- Founding Full-Stack Engineer at mash.fun
+- Lead Full-Stack Engineer across Hive ecosystem products
+- Builder of Solana infrastructure including Trana and Action Codes
+
+## What I work on
+
+- Full-stack product engineering
+- TypeScript / React / Next.js / Node.js / Go
+- APIs and third-party integrations
+- Real-time systems
+- AI agents, MCP and developer tooling
+- Stripe and payment infrastructure
+- Solana programs, wallets and transaction systems
+
+## Elsewhere
+
+🐥 x.com/beharefe
+💼 linkedin.com/in/beharefe
