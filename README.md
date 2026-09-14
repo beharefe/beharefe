@@ -23,5 +23,5 @@ Previously:
 
 ## Elsewhere
 
-🐥 x.com/beharefe
-💼 linkedin.com/in/beharefe
+🐥 https://x.com/beharefe
+💼 https://linkedin.com/in/beharefe
